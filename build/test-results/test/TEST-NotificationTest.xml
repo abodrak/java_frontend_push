@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NotificationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-26T05:18:40" hostname="abdullahs-MacBook-Pro.local" time="1.72">
+  <properties/>
+  <testcase name="FcmTest" classname="NotificationTest" time="1.72"/>
+  <system-out><![CDATA[Successfully sent message: projects/veemu-33e81/messages/0:1582694321982128%cc9b4facf9fd7ecd
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>
